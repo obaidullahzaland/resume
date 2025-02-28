@@ -6,9 +6,9 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Obaidullah Zaland
+title: PhD Researcher
+email: obaidullah.zaland@umu.se
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -19,17 +19,17 @@ website: Your website (eg. https://google.com)(optional)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
+twitter_username: obaidullahpz
+github_username:  obaidullahzaland
+stackoverflow_username: "10957152"
+dribbble_username: obaidullahzaland
+facebook_username: obaidullah.zaland
+flickr_username: obaidullahzaland
+instagram_username: obaidullahzaland
+linkedin_username: obaidullah.zaland
+xing_username: obaidullahzaland
+pinterest_username: obaidullahzaland
+youtube_username: obaidullahzaland
 orcid_username: 0000-0000-0000-0000
 googlescholar_username: D847cGsAAAAJ
 
@@ -61,15 +61,15 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: One Shot Federated Learning with Classifier-Free Diffusion Models
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link_text: arXiv link
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
@@ -78,9 +78,9 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          Submitted to ICME 2025
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          The work explores a one shot FL approach. 
   - title: Experience
     layout: list
     content:
