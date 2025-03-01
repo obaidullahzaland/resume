@@ -70,46 +70,62 @@ content:
         title: One Shot Federated Learning with Classifier-Free Diffusion Models
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: arXiv link
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Submitted to ICME 2025
         description: | # this will include new lines to allow paragraphs
+          The work explores a one shot FL approach.
+
+        title: Mitigating Data Heterogeneity with Federated Multi-tier GAN
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: arXiv link
+        quote: >
+          Accepted at ICONIP 2024
+        description: | # this will include new lines to allow paragraphs
           The work explores a one shot FL approach. 
-  - title: Experience
+        title: MTF-Grasp - A Multi-tier Federated Learning Approach for Robotic Grasping
+        link: 
+        link_text: arXiv link
+        quote: >
+          Submitted to IJCNN 2025
+        description: | # this will include new lines to allow paragraphs
+          The work explores a one shot FL approach. 
+        title: Federated Learning for Large-Scale Cloud Robotic Manipulation: Challenges and Oppurtunities
+        link: 
+        link_text: arXiv link
+        quote: >
+          Submitted to IEEE Internet Computing Magazine
+        description: | # this will include new lines to allow paragraphs
+          The work explores a one shot FL approach. 
+  - title: Education
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: left
+        title: Umea University
+        sub_title: PhD Student
+        caption: Feb 2023 - Present
+        link: www.umu.se
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+        title: South Asian University
+        sub_title: M.Sc (Computer Science)
+        caption: July 2018 - May 2020
+        link: www.sau.int
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+        
+        title: Panjab University
+        sub_title: BCA
+        caption: July 2015 - May 2018
+        link: www.puchd.ac.in
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
 
 # Footer
 footer_show_references: true
